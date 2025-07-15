@@ -1,12 +1,12 @@
-LearnOpenGL 2D game：BreakOut
-Compile:
-1.Create a folder called build in the project
-  mkdir build
-2.Go to the build folder
-  cd build
-3.Compiling projects
-  cmake ..
-  cmake --build . --config Debug
+LearnOpenGL 2D game：BreakOut<br>
+Compile:<br>
+1.Create a folder called build in the project<br>
+  mkdir build<br>
+2.Go to the build folder<br>
+  cd build<br>
+3.Compiling projects<br>
+  cmake ..<br>
+  cmake --build . --config Debug<br>
   
-Run the game：
-  click BreakOut\build\bin\test.exe
+Run the game：<br>
+  click BreakOut\build\bin\test.exe<br>
