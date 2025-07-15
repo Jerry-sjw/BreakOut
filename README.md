@@ -1,4 +1,4 @@
-LearnOpenGL 2D game：BreakOut<br>
+<h2>LearnOpenGL 2D game：BreakOut</h2><br>
 Compile:<br>
 1.Create a folder called build in the project<br>
   mkdir build<br>
