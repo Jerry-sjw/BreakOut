@@ -1,5 +1,5 @@
 <h1>LearnOpenGL 2D game：BreakOut</h1><br>
-![BreakOut](./img/1752568264195.png)
+![BreakOut](https://github.com/Jerry-sjw/BreakOut/blob/main/img/1752568264195.png)
 <h2>Compile:</h2><br>
 <h3>1.Create a folder called build in the project</h3><br>
   mkdir build<br>
