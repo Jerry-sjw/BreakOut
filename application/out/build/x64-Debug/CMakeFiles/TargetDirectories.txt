@@ -1,0 +1,3 @@
+D:/learn/opengl/Breakout/application/out/build/x64-Debug/CMakeFiles/app.dir
+D:/learn/opengl/Breakout/application/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/learn/opengl/Breakout/application/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
